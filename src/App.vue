@@ -1,9 +1,10 @@
 <script setup lang="ts">
+import TaskListAddButton from '@/components/TaskListAddButton.vue'
 </script>
 
 <template>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <div class="w-[100vw] h-[100vh] overflow-hidden">
+    <TaskListAddButton></TaskListAddButton>
+  </div>
 </template>
 

@@ -1,39 +1,15 @@
-# yuanli-todolist-frontend
+# 清单管理系统
+程序猿依力NestJS后端开发入门教程实战代码前端仓库
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## 前言
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+本项目为程序猿依力NestJS后端开发入门教程的代码仓库，同套课程视频课程请参考：[NestJS后端开发入门](https://edu.bili-tech.com/course/58)
 
-## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## 课程答疑请添加微信二维码（备注课程购买渠道：B站或网校）
 
-## Customize configuration
+<center>
+<img src="./assets/wechat-qr-code.jpg" width="400"/>
+</center>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
